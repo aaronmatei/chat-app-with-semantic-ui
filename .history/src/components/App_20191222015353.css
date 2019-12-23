@@ -1,0 +1,11 @@
+html,
+body,
+.app {
+  height: 100vh;
+  background: #eee;
+  padding: 1em;
+}
+
+.ui.page.modals.dimmer.transition.visible.active {
+  display: flex !important;
+}

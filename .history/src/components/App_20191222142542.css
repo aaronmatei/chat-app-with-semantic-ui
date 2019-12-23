@@ -1,0 +1,15 @@
+html,
+body,
+.app {
+  height: 100vh;
+  background: #eee;
+  padding: 1em;
+}
+
+/* messages  */
+.messages {
+  height: 440px;
+  overflow: scroll;
+}
+
+/* messageForm.js */
